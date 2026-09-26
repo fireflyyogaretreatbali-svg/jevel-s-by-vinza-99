@@ -1,0 +1,314 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Naidu Oval Gold Watch",
+      "price": 2200,
+      "category": "watches",
+      "badge": "Bestseller",
+      "description": "",
+      "images": [
+        "images/p1-1.jpg",
+        "images/p1-2.jpg"
+      ]
+    },
+    {
+      "id": "p2",
+      "name": "Vintage Gold Rose Oval Pendant",
+      "price": 999,
+      "category": "necklaces",
+      "badge": "",
+      "description": "",
+      "images": [
+        "images/p2-1.jpg",
+        "images/p2-2.jpg"
+      ]
+    },
+    {
+      "id": "p3",
+      "name": "XIMILI Vintage Emerald Dial Watch",
+      "price": 2099,
+      "category": "watches",
+      "badge": "New",
+      "description": "",
+      "images": [
+        "images/p3-1.jpg",
+        "images/p3-2.jpg",
+        "images/p3-3.jpg"
+      ]
+    },
+    {
+      "id": "p4",
+      "name": "2-in-1 Magnetic Four Leaf Clover Heart Necklace",
+      "price": 999,
+      "category": "necklaces",
+      "badge": "",
+      "description": "",
+      "images": [
+        "images/p4-1.jpg"
+      ]
+    },
+    {
+      "id": "p5",
+      "name": "Double Open-Heart Pendant",
+      "price": 850,
+      "category": "necklaces",
+      "badge": "",
+      "description": "",
+      "images": [
+        "images/p5-1.jpg"
+      ]
+    },
+    {
+      "id": "p6",
+      "name": "Golden Crescent Moon Pendant",
+      "price": 999,
+      "category": "necklaces",
+      "badge": "",
+      "description": "",
+      "images": [
+        "images/p6-1.jpg"
+      ]
+    },
+    {
+      "id": "p7",
+      "name": "Crystal Clover Necklace — Gold & Silver Duo",
+      "price": 1599,
+      "category": "necklaces",
+      "badge": "New",
+      "description": "",
+      "images": [
+        "images/p7-1.jpg"
+      ]
+    },
+    {
+      "id": "p8",
+      "name": "Clear Crystal Vine Bracelet",
+      "price": 999,
+      "category": "bracelets",
+      "badge": "",
+      "description": "",
+      "images": [
+        "images/p8-1.jpg"
+      ]
+    },
+    {
+      "id": "p9",
+      "name": "Blush Vine Gemstone Bracelet",
+      "price": 1200,
+      "category": "bracelets",
+      "badge": "",
+      "description": "",
+      "images": [
+        "images/p9-1.jpg",
+        "images/p9-2.jpg"
+      ]
+    },
+    {
+      "id": "p10",
+      "name": "Vintage Double Layer Tiger's Eye Necklace",
+      "price": 1300,
+      "category": "necklaces",
+      "badge": "",
+      "description": "",
+      "images": [
+        "images/p10-1.jpg",
+        "images/p10-2.jpg",
+        "images/p10-3.jpg"
+      ]
+    },
+    {
+      "id": "p11",
+      "name": "Celestial Tiger's Eye Vintage Rings",
+      "price": 1299,
+      "category": "rings",
+      "badge": "",
+      "description": "",
+      "images": [
+        "images/p11-1.jpg",
+        "images/p11-2.jpg"
+      ]
+    },
+    {
+      "id": "p12",
+      "name": "Blossom Bloom Sculptural Bangle",
+      "price": 1999,
+      "category": "bracelets",
+      "badge": "",
+      "description": "",
+      "images": [
+        "images/p12-1.jpg",
+        "images/p12-2.jpg",
+        "images/p12-3.jpg"
+      ]
+    },
+    {
+      "id": "p13",
+      "name": "Golden Snake Coil Bracelet Watch",
+      "price": 2700,
+      "category": "watches",
+      "badge": "",
+      "description": "",
+      "images": [
+        "images/p13-1.jpg",
+        "images/p13-2.jpg"
+      ]
+    },
+    {
+      "id": "p15",
+      "name": "Tulip Vine Necklace — Multi-Colour",
+      "price": 1100,
+      "category": "necklaces",
+      "badge": "New",
+      "description": "",
+      "images": [
+        "images/p15-1.jpg"
+      ]
+    },
+    {
+      "id": "p16",
+      "name": "Naidu Oval Silver Watch",
+      "price": 2100,
+      "category": "watches",
+      "badge": "New",
+      "description": "",
+      "images": [
+        "images/p16-1.jpg"
+      ]
+    },
+    {
+      "id": "p17",
+      "name": "Gold Plated Rectangle Pavé Ring",
+      "price": 780,
+      "category": "rings",
+      "badge": "New",
+      "description": "",
+      "images": [
+        "images/p17-1.jpg"
+      ]
+    },
+    {
+      "id": "p18",
+      "name": "Round Halo Solitaire Ring",
+      "price": 799,
+      "category": "rings",
+      "badge": "New",
+      "description": "",
+      "images": [
+        "images/p18-1.jpg"
+      ]
+    },
+    {
+      "id": "p19",
+      "name": "Twin Flower Split Band Ring",
+      "price": 600,
+      "category": "rings",
+      "badge": "New",
+      "description": "",
+      "images": [
+        "images/p19-1.jpg"
+      ]
+    },
+    {
+      "id": "p20",
+      "name": "Rotating Anti-Stress Gemstone Ring",
+      "price": 850,
+      "category": "rings",
+      "badge": "New",
+      "description": "",
+      "images": [
+        "images/p20-1.jpg"
+      ]
+    },
+    {
+      "id": "p21",
+      "name": "Round Bezel Solitaire Pendant",
+      "price": 950,
+      "category": "necklaces",
+      "badge": "New",
+      "description": "",
+      "images": [
+        "images/p21-1.jpg"
+      ]
+    },
+    {
+      "id": "p22",
+      "name": "Brown Glossy Almond Press-On Nails (24pcs)",
+      "price": 600,
+      "category": "nails",
+      "badge": "New",
+      "description": "",
+      "images": [
+        "images/p22-1.jpg",
+        "images/p22-2.jpg"
+      ]
+    },
+    {
+      "id": "p23",
+      "name": "Dreamy Ombre Pink Cat Eye Press-On Nails (24pcs)",
+      "price": 800,
+      "category": "nails",
+      "badge": "New",
+      "description": "",
+      "images": [
+        "images/p23-1.jpg",
+        "images/p23-2.jpg"
+      ]
+    },
+    {
+      "id": "p24",
+      "name": "Nude French Manicure Coffin Nails (30pcs)",
+      "price": 800,
+      "category": "nails",
+      "badge": "New",
+      "description": "",
+      "images": [
+        "images/p24-1.jpg"
+      ]
+    },
+    {
+      "id": "p25",
+      "name": "Cherry Wine Cat Eye Crystal Nails (24pcs)",
+      "price": 850,
+      "category": "nails",
+      "badge": "New",
+      "description": "",
+      "images": [
+        "images/p25-1.jpg"
+      ]
+    },
+    {
+      "id": "p26",
+      "name": "Y2K Polka Dot Cat Eye Press-On Nails (10pcs)",
+      "price": 900,
+      "category": "nails",
+      "badge": "New",
+      "description": "",
+      "images": [
+        "images/p26-1.jpg"
+      ]
+    },
+    {
+      "id": "p27",
+      "name": "Butterfly Gel Nail Stickers (10pcs)",
+      "price": 700,
+      "category": "nails",
+      "badge": "New",
+      "description": "",
+      "images": [
+        "images/p27-1.jpg"
+      ]
+    },
+    {
+      "id": "p28",
+      "name": "Pearl Chrome Almond Press-On Nails (24pcs)",
+      "price": 600,
+      "category": "nails",
+      "badge": "New",
+      "description": "",
+      "images": [
+        "images/p28-1.jpg"
+      ]
+    }
+  ]
+}

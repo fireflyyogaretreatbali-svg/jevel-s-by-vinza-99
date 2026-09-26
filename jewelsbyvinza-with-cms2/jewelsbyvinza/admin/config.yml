@@ -1,0 +1,63 @@
+backend:
+  name: git-gateway
+  branch: main   # change this if your Netlify site deploys from a different branch
+
+# Where images uploaded through the CMS are stored in the repo,
+# and the URL path the site will use to reference them.
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+# Show a "Draft" toggle instead of publishing straight to the live branch.
+# Set to false if you want every save to go live immediately.
+publish_mode: simple
+
+collections:
+  - name: "products"
+    label: "Products"
+    files:
+      - file: "data/products.json"
+        label: "Product Catalog"
+        name: "catalog"
+        description: "Add, edit, or remove the products shown on the site. Changes go live a minute or two after you publish."
+        fields:
+          - label: "Products"
+            name: "products"
+            widget: "list"
+            summary: "{{fields.name}} — {{fields.category}} — Rs {{fields.price}}"
+            fields:
+              - label: "Product ID"
+                name: "id"
+                widget: "string"
+                hint: "Must be unique and have no spaces, e.g. p28. Never change this after publishing an existing product — it's used to match cart items."
+              - label: "Name"
+                name: "name"
+                widget: "string"
+              - label: "Price (PKR)"
+                name: "price"
+                widget: "number"
+                value_type: "int"
+                min: 0
+              - label: "Original Price (optional — shows a strikethrough discount)"
+                name: "originalPrice"
+                widget: "number"
+                value_type: "int"
+                min: 0
+                required: false
+              - label: "Category"
+                name: "category"
+                widget: "select"
+                options: ["watches", "necklaces", "rings", "bracelets", "nails"]
+              - label: "Badge (optional)"
+                name: "badge"
+                widget: "select"
+                options: ["", "Bestseller", "New"]
+                required: false
+              - label: "Description"
+                name: "description"
+                widget: "text"
+                required: false
+              - label: "Images"
+                name: "images"
+                widget: "list"
+                allow_add: true
+                field: {label: "Image", name: "image", widget: "image"}
